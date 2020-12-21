@@ -1,8 +1,8 @@
-HAND (tab delimited)
-1   22  12  45  99  101 102 104
+HAND (space delimited)
+1 22 12 45 99 101 102 104
 
-TABLE (tab delimited)
-12  99  101 102
+TABLE (space delimited)
+12 99 101 103
 
-21  24
+21 24
 90
